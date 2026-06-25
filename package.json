@@ -3,7 +3,7 @@
   "displayName": "nullframe",
   "description": "a minimal dark theme that empowers you to build the world ... in Violet, Blue, Emerald, and Red accents.",
   "version": "0.0.1",
-  "publisher": "sushilburagute",
+  "publisher": "sush-dev",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
