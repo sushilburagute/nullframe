@@ -1,0 +1,21 @@
+{
+  "name": "nullframe",
+  "displayName": "nullframe",
+  "description": "a theme which empowers you to build the world",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nullframe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nullframe-color-theme.json"
+      }
+    ]
+  }
+}
