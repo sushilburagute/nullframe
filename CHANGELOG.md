@@ -1,9 +1,14 @@
 # Change Log
 
-All notable changes to the "nullframe" extension will be documented in this file.
+All notable changes to the **Nullframe** theme are documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+This project adheres to [Keep a Changelog](http://keepachangelog.com/).
 
-## [Unreleased]
+## [0.0.1] - 2026-06-26
 
-- Initial release
+### Added
+
+- Initial release of the Nullframe dark theme.
+- Four accent variants: **Nullframe Violet**, **Nullframe Blue**, **Nullframe Emerald**, and **Nullframe Red**.
+- Full editor, workbench, terminal, and Git decoration colors.
+- Multi-hue syntax highlighting with semantic highlighting enabled.

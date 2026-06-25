@@ -1,16 +1,34 @@
-# nullframe README
+# Nullframe
 
-## Working with Markdown
+A minimal, low-contrast dark theme that gets out of your way — *empowering you to build the world*.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Ships with three accent variants that share the same calm `#0a0a0a` canvas and balanced syntax palette:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+| Variant | Accent |
+| --- | --- |
+| **Nullframe Violet** | `#7c3aed` |
+| **Nullframe Blue** | `#2563eb` |
+| **Nullframe Emerald** | `#059669` |
+| **Nullframe Red** | `#dc2626` |
 
-## For more information
+## Install
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open the **Extensions** view (`Ctrl+Shift+X` / `Cmd+Shift+X`).
+2. Search for **Nullframe**.
+3. Click **Install**.
+
+Then pick a variant: `Ctrl+K Ctrl+T` (`Cmd+K Cmd+T` on macOS) → **Nullframe Violet / Blue / Emerald / Red**.
+
+## Design
+
+- Deep `#0a0a0a` background with soft `#ebebeb` foreground for comfortable long sessions.
+- The accent color drives the editor chrome (cursor, selection, active borders, buttons, badges, links) and the keyword / function / heading syntax tokens.
+- A shared multi-hue syntax palette keeps strings, types, tags, numbers, and attributes readable across every accent.
+- Semantic highlighting enabled.
+
+## Feedback
+
+Found a rough edge or want another accent? Open an issue at
+[github.com/sushilburagute/nullframe](https://github.com/sushilburagute/nullframe/issues).
 
 **Enjoy!**

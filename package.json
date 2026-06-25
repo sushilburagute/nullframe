@@ -1,20 +1,58 @@
 {
   "name": "nullframe",
   "displayName": "nullframe",
-  "description": "a theme which empowers you to build the world",
+  "description": "a minimal dark theme that empowers you to build the world ... in Violet, Blue, Emerald, and Red accents.",
   "version": "0.0.1",
+  "publisher": "sushilburagute",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.125.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "violet",
+    "blue",
+    "emerald",
+    "red"
+  ],
+  "galleryBanner": {
+    "color": "#0a0a0a",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sushilburagute/nullframe.git"
+  },
+  "homepage": "https://github.com/sushilburagute/nullframe#readme",
+  "bugs": {
+    "url": "https://github.com/sushilburagute/nullframe/issues"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "nullframe",
+        "label": "Nullframe Violet",
         "uiTheme": "vs-dark",
-        "path": "./themes/nullframe-color-theme.json"
+        "path": "./themes/nullframe-dark-violet-color-theme.json"
+      },
+      {
+        "label": "Nullframe Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nullframe-dark-blue-color-theme.json"
+      },
+      {
+        "label": "Nullframe Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nullframe-dark-green-color-theme.json"
+      },
+      {
+        "label": "Nullframe Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nullframe-dark-red-color-theme.json"
       }
     ]
   }
